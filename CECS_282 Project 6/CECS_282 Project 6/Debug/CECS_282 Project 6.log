@@ -1,0 +1,18 @@
+﻿  DealerDriver.cpp
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\dealerdriver.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\hand.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\deckofcards.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\card.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\card.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\deckofcards.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\deckofcards.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\hand.cpp(59): warning C4101: 'temp': unreferenced local variable
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\hand.cpp(59): warning C4101: 'prev': unreferenced local variable
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\hand.cpp(79): warning C4101: 'temp': unreferenced local variable
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\hand.cpp(79): warning C4101: 'prev': unreferenced local variable
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\hand.cpp(117): warning C4101: 'temp': unreferenced local variable
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\hand.cpp(117): warning C4101: 'prev': unreferenced local variable
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\dealerdriver.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282 project 6\cecs_282 project 6\dealerdriver.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CECS_282 Project 6.vcxproj -> C:\Users\Alfredo\documents\visual studio 2017\Projects\CECS_282 Project 6\Debug\CECS_282 Project 6.exe
+  CECS_282 Project 6.vcxproj -> C:\Users\Alfredo\documents\visual studio 2017\Projects\CECS_282 Project 6\Debug\CECS_282 Project 6.pdb (Partial PDB)

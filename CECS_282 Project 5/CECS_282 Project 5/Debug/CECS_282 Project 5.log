@@ -1,0 +1,7 @@
+﻿  compleTester.cpp
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 5\cecs_282 project 5\completester.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 5\cecs_282 project 5\completester.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 5\cecs_282 project 5\completester.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 5\cecs_282 project 5\completester.cpp(116): warning C4101: 'c': unreferenced local variable
+  CECS_282 Project 5.vcxproj -> C:\Users\Alfredo\Documents\Visual Studio 2017\Projects\CECS_282\CECS_282 Project 5\Debug\CECS_282 Project 5.exe
+  CECS_282 Project 5.vcxproj -> C:\Users\Alfredo\Documents\Visual Studio 2017\Projects\CECS_282\CECS_282 Project 5\Debug\CECS_282 Project 5.pdb (Partial PDB)

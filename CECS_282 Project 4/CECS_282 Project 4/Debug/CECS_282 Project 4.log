@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 4\cecs_282 project 4\source.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 4\cecs_282 project 4\source.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 4\cecs_282 project 4\source.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 4\cecs_282 project 4\source.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 4\cecs_282 project 4\operations.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 4\cecs_282 project 4\operations.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 4\cecs_282 project 4\source.cpp(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 4\cecs_282 project 4\ins.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 4\cecs_282 project 4\source.cpp(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 4\cecs_282 project 4\operations.h(46): warning C4715: 'pow': not all control paths return a value
+  CECS_282 Project 4.vcxproj -> C:\Users\Alfredo\Documents\Visual Studio 2017\Projects\CECS_282\CECS_282 Project 4\Debug\CECS_282 Project 4.exe
+  CECS_282 Project 4.vcxproj -> C:\Users\Alfredo\Documents\Visual Studio 2017\Projects\CECS_282\CECS_282 Project 4\Debug\CECS_282 Project 4.pdb (Partial PDB)

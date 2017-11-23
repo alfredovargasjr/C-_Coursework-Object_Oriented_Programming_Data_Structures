@@ -1,0 +1,15 @@
+﻿  Hand.cpp
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 6\cecs_282 project 6\hand.cpp(55): warning C4101: 'temp': unreferenced local variable
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 6\cecs_282 project 6\hand.cpp(55): warning C4101: 'prev': unreferenced local variable
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 6\cecs_282 project 6\hand.cpp(75): warning C4101: 'temp': unreferenced local variable
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 6\cecs_282 project 6\hand.cpp(75): warning C4101: 'prev': unreferenced local variable
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 6\cecs_282 project 6\hand.cpp(113): warning C4101: 'temp': unreferenced local variable
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 6\cecs_282 project 6\hand.cpp(113): warning C4101: 'prev': unreferenced local variable
+  DealerDriver.cpp
+  Generating Code...
+  Compiling...
+  DeckOfCards.cpp
+  Card.cpp
+  Generating Code...
+  CECS_282 Project 6.vcxproj -> C:\Users\Alfredo\Documents\Visual Studio 2017\Projects\CECS_282\CECS_282 Project 6\x64\Debug\CECS_282 Project 6.exe
+  CECS_282 Project 6.vcxproj -> C:\Users\Alfredo\Documents\Visual Studio 2017\Projects\CECS_282\CECS_282 Project 6\x64\Debug\CECS_282 Project 6.pdb (Partial PDB)

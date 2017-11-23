@@ -1,0 +1,8 @@
+﻿  HugeInteger.cpp
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 7\cecs_282 project 7\hugeinteger.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 7\cecs_282 project 7\hugeinteger.cpp(90): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 7\cecs_282 project 7\hugeinteger.cpp(106): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 7\cecs_282 project 7\hugeinteger.cpp(168): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 project 7\cecs_282 project 7\hugeinteger.cpp(184): warning C4390: ';': empty controlled statement found; is this the intent?
+  CECS_282 Project 7.vcxproj -> C:\Users\Alfredo\Documents\Visual Studio 2017\Projects\CECS_282\CECS_282 Project 7\Debug\CECS_282 Project 7.exe
+  CECS_282 Project 7.vcxproj -> C:\Users\Alfredo\Documents\Visual Studio 2017\Projects\CECS_282\CECS_282 Project 7\Debug\CECS_282 Project 7.pdb (Partial PDB)

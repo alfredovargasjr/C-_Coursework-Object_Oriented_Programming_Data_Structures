@@ -1,0 +1,11 @@
+﻿  Source1.cpp
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 lab 4\cecs_282 lab 4\source1.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 lab 4\cecs_282 lab 4\source1.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Source.cpp
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 lab 4\cecs_282 lab 4\source.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 lab 4\cecs_282 lab 4\source.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 lab 4\cecs_282 lab 4\source.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alfredo\documents\visual studio 2017\projects\cecs_282\cecs_282 lab 4\cecs_282 lab 4\source.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  CECS_282 Lab 4.vcxproj -> C:\Users\Alfredo\Documents\Visual Studio 2017\Projects\CECS_282\CECS_282 Lab 4\Debug\CECS_282 Lab 4.exe
+  CECS_282 Lab 4.vcxproj -> C:\Users\Alfredo\Documents\Visual Studio 2017\Projects\CECS_282\CECS_282 Lab 4\Debug\CECS_282 Lab 4.pdb (Partial PDB)
